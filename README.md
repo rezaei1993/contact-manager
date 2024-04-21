@@ -1,6 +1,7 @@
 # Contact Manager
 
-In this project, the service layer and repository are separated, and tests have been written as well.
+In this project, the service layer and repository are separated, and tests have been written as well. Additionally, 
+the project has been written in a modular structure
 
 ## Installation and Setup
 
