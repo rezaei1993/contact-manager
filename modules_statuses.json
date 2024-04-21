@@ -1,0 +1,7 @@
+{
+    "User": true,
+    "Award": true,
+    "Company": true,
+    "Contact": true,
+    "Note": true
+}
